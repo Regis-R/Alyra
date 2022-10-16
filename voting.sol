@@ -6,7 +6,7 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contr
 
 contract Voting is Ownable{
     //-------------------------------------------------------------------------
-    //Remarques
+    //Remarques                         Auteur : Régis Rem.
     //-------------------------------------------------------------------------
     //
     // + les fonctions sont nommées pour être dans l'ordre du cycle dans remix
